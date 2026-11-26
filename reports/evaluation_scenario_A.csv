@@ -1,0 +1,13 @@
+scenario,model,class,precision,recall,f1,support,accuracy
+A,Decision Tree,Low,1.0,1.0,1.0,59,
+A,Decision Tree,Moderate,1.0,1.0,1.0,135,
+A,Decision Tree,High,1.0,1.0,1.0,206,
+A,Decision Tree,MACRO (rata-rata 3 kelas),1.0,1.0,1.0,400,1.0
+A,Random Forest,Low,1.0,1.0,1.0,59,
+A,Random Forest,Moderate,1.0,1.0,1.0,135,
+A,Random Forest,High,1.0,1.0,1.0,206,
+A,Random Forest,MACRO (rata-rata 3 kelas),1.0,1.0,1.0,400,1.0
+A,Baseline (High),Low,0.0,0.0,0.0,59,
+A,Baseline (High),Moderate,0.0,0.0,0.0,135,
+A,Baseline (High),High,0.515,1.0,0.6799,206,
+A,Baseline (High),MACRO (rata-rata 3 kelas),0.1717,0.3333,0.2266,400,0.515

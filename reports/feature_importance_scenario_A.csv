@@ -1,0 +1,5 @@
+feature,decision_tree_importance,random_forest_importance
+Study_Hours_Per_Day,0.6690762567752476,0.7174660940310795
+Sleep_Hours_Per_Day,0.3309237432247524,0.23694415393587134
+Physical_Activity_Hours_Per_Day,0.0,0.03286161865411987
+Social_Hours_Per_Day,0.0,0.012728133378929342

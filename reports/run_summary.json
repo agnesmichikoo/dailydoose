@@ -1,0 +1,10 @@
+{
+  "best_depth_A": 3,
+  "best_depth_B": null,
+  "final_model_classes": [
+    "High",
+    "Low",
+    "Moderate"
+  ],
+  "sklearn_version": "1.9.1"
+}
